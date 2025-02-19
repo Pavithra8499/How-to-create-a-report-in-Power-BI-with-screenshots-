@@ -32,19 +32,19 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 • Remove duplicates
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/93ef9b2d72d235c95546b578c8076b7594289fb9/IMG_1672.png)
 
 • Change data types (e.g., text to numbers)
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/93ef9b2d72d235c95546b578c8076b7594289fb9/IMG_1674.png)
 
 • Filter missing values
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/93ef9b2d72d235c95546b578c8076b7594289fb9/IMG_1676.png)
 
 3️⃣ Click “Close & Apply” when done.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/93ef9b2d72d235c95546b578c8076b7594289fb9/IMG_1673.png)
 
 📌 Tip: Use Power Query functions like “Replace Values” to fix inconsistent data.
 
