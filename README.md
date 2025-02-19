@@ -19,7 +19,7 @@ Example Screenshot:
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/41c5eeed4a4a434211f9690eaeb55e0dfd64b0db/IMG_1666.png)
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/4e96cf18bf120acbbed6ffd7452c0cf5ec40fda7/IMG_1667.png)
 
 ![image alt]
 
