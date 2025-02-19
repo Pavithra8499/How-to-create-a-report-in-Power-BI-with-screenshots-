@@ -15,7 +15,24 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 📌 Tip: If your data is in an Excel file, select “Excel Workbook” and browse for the file.
 
 Example Screenshot:
-![image alt]([image_ url](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png))Screenshot: Power BI Home Screen with “Get Data” Option
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png)
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
+
+
+
+Screenshot: Power BI Home Screen with “Get Data” Option
 
 # Step 2: Transform and Clean Data (Power Query Editor)
 
@@ -36,6 +53,14 @@ Example Screenshot:
 Example Screenshot:
 [Insert Screenshot: Power Query Editor with transformation options]
 
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
 # Step 3: Create Visualizations
 
 1️⃣ Click on the “Report View” (default screen in Power BI).
@@ -49,6 +74,14 @@ Example:
 Example Screenshot:
 [Insert Screenshot: Power BI report with a bar chart]
 
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
 # Step 4: Add Filters and Slicers
 
 1️⃣ Click on “Slicer” in the Visualizations pane.
@@ -60,6 +93,14 @@ Example Screenshot:
 Example Screenshot:
 [Insert Screenshot: Power BI slicer example]
 
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
 # Step 5: Format and Publish the Report
 
 1️⃣ Use the “Format” pane to adjust colors, fonts, and layout.
@@ -70,6 +111,14 @@ Example Screenshot:
 
 Example Screenshot:
 [Insert Screenshot: Power BI Publish Option]
+
+![image alt]
+
+![image alt]
+
+![image alt]
+
+![image alt]
 
 # Conclusion
 
