@@ -52,7 +52,7 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Click on the “Report View” (default screen in Power BI).
 
-![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/8399ec66216bde8bfa6a0e91e2c8f4b9b33147e9/IMG_1666.jpeg)
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/ecde2bce2a45c9f229e929b407e7e06c646a3a4f/IMG_1686.png)
 
 2️⃣ On the right, you’ll see the “Visualizations” pane.
 
@@ -67,28 +67,24 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/d55d1620673ea5defe635ea7b23bce21f6c1d38e/IMG_1682.png)
 
 Example:
-	• Drag “Fiscal Month” to the X-axis and “Last Year Sales” to the Y-axis to create a bar chart.
+	
+Drag “Fiscal Month” to the X-axis and “Last Year Sales” to the Y-axis to create a bar chart.
 
 # Step 4: Add Filters and Slicers
 
 1️⃣ Click on “Slicer” in the Visualizations pane.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/ecde2bce2a45c9f229e929b407e7e06c646a3a4f/IMG_1689.png)
 
 2️⃣ Drag a field (e.g., Date or Category) to filter data interactively.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/ecde2bce2a45c9f229e929b407e7e06c646a3a4f/IMG_1690.png)
 
-3️⃣ You can also use Page-Level Filters to apply filters across all visuals.
+3️⃣ You can also use Page-Level Filters by Selecting  the Format ribbon, then select Edit interactions to apply filters across all visuals.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/ecde2bce2a45c9f229e929b407e7e06c646a3a4f/IMG_1688.png)
 
 📌 Tip: Slicers allow users to dynamically filter reports based on their needs.
-
-Example Screenshot:
-[Insert Screenshot: Power BI slicer example]
-
-![image alt](
 
 # Step 5: Format and Publish the Report
 
