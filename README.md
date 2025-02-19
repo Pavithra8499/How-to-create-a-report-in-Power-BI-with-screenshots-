@@ -26,7 +26,7 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Click on “Transform Data” to open the Power Query Editor.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/c62a783c08341645812e6487c030475b581111f8/IMG_1670.png)
 
 2️⃣ Here, you can:
 
