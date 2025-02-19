@@ -52,27 +52,22 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Click on the “Report View” (default screen in Power BI).
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/8399ec66216bde8bfa6a0e91e2c8f4b9b33147e9/IMG_1666.jpeg)
 
 2️⃣ On the right, you’ll see the “Visualizations” pane.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/d55d1620673ea5defe635ea7b23bce21f6c1d38e/IMG_1679.png)
 
 3️⃣ Drag and drop fields from the “Fields” pane to your report canvas.
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/d55d1620673ea5defe635ea7b23bce21f6c1d38e/IMG_1680.png)
 
 4️⃣ Choose a visualization type (Bar Chart, Pie Chart, Table, etc.).
 
-![image alt](
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/d55d1620673ea5defe635ea7b23bce21f6c1d38e/IMG_1682.png)
 
 Example:
-	•	Drag “Sales Amount” to the Y-axis and “Region” to the X-axis to create a bar chart.
-
-Example Screenshot:
-[Insert Screenshot: Power BI report with a bar chart]
-
-![image alt](
+	• Drag “Fiscal Month” to the X-axis and “Last Year Sales” to the Y-axis to create a bar chart.
 
 # Step 4: Add Filters and Slicers
 
