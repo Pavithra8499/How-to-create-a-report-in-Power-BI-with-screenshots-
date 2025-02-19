@@ -1,5 +1,7 @@
 # How to Create a Report in Power BI (With Screenshots)
 
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png)
+
 # Introduction
 
 Power BI is a powerful data visualization tool that allows you to transform raw data into meaningful insights. In this guide, I’ll walk you through the step-by-step process of creating a report in Power BI, from importing data to building interactive dashboards.
@@ -8,20 +10,23 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Launch Power BI Desktop on your computer.
 
+
+
+
+
+
+
 2️⃣ Click on “Home” → “Get Data” to import your dataset.
 
-3️⃣ Choose your data source (Excel, SQL, CSV, etc.), then click “Load”.
-
-📌 Tip: If your data is in an Excel file, select “Excel Workbook” and browse for the file.
-
 Example Screenshot:
-![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png)
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/41c5eeed4a4a434211f9690eaeb55e0dfd64b0db/IMG_1666.png)
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/4e96cf18bf120acbbed6ffd7452c0cf5ec40fda7/IMG_1667.png)
 
-![image alt]
+3️⃣ Choose your data source (Excel, SQL, CSV, etc.), then click “Load”.
+
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/34aef982ccb9669abc7563d27072c18f2f4da4bb/IMG_1668.png)
 
 ![image alt]
 
@@ -29,10 +34,7 @@ Example Screenshot:
 
 ![image alt]
 
-
-
-
-Screenshot: Power BI Home Screen with “Get Data” Option
+📌 Tip: If your data is in an Excel file, select “Excel Workbook” and browse for the file.
 
 # Step 2: Transform and Clean Data (Power Query Editor)
 
