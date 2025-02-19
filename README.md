@@ -17,9 +17,9 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 Example Screenshot:
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png)
 
-![image alt]
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/41c5eeed4a4a434211f9690eaeb55e0dfd64b0db/IMG_1666.png)
 
-![image alt]
+![image alt](
 
 ![image alt]
 
