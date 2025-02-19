@@ -10,13 +10,9 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Launch Power BI Desktop on your computer.
 
-![image alt]
+![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/c80298e3785134ce6e3dc9c9b9b05ef38a265939/IMG_1669.png)
 
 2️⃣ Click on “Home” → “Get Data” to import your dataset.
-
-Example Screenshot:
-
-![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/41c5eeed4a4a434211f9690eaeb55e0dfd64b0db/IMG_1666.png)
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/4e96cf18bf120acbbed6ffd7452c0cf5ec40fda7/IMG_1667.png)
 
@@ -24,47 +20,51 @@ Example Screenshot:
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/34aef982ccb9669abc7563d27072c18f2f4da4bb/IMG_1668.png)
 
-
-
-![image alt]
-
-![image alt]
-
 📌 Tip: If your data is in an Excel file, select “Excel Workbook” and browse for the file.
 
 # Step 2: Transform and Clean Data (Power Query Editor)
 
 1️⃣ Click on “Transform Data” to open the Power Query Editor.
 
+![image alt](
+
 2️⃣ Here, you can:
 
 • Remove duplicates
 
+![image alt](
+
 • Change data types (e.g., text to numbers)
+
+![image alt](
 
 • Filter missing values
 
+![image alt](
+
 3️⃣ Click “Close & Apply” when done.
 
+![image alt](
+
 📌 Tip: Use Power Query functions like “Replace Values” to fix inconsistent data.
-
-Example Screenshot:
-[Insert Screenshot: Power Query Editor with transformation options]
-
-![image alt]
-
-![image alt]
-
-![image alt]
-
-![image alt]
 
 # Step 3: Create Visualizations
 
 1️⃣ Click on the “Report View” (default screen in Power BI).
+
+![image alt](
+
 2️⃣ On the right, you’ll see the “Visualizations” pane.
+
+![image alt](
+
 3️⃣ Drag and drop fields from the “Fields” pane to your report canvas.
+
+![image alt](
+
 4️⃣ Choose a visualization type (Bar Chart, Pie Chart, Table, etc.).
+
+![image alt](
 
 Example:
 	•	Drag “Sales Amount” to the Y-axis and “Region” to the X-axis to create a bar chart.
@@ -72,51 +72,49 @@ Example:
 Example Screenshot:
 [Insert Screenshot: Power BI report with a bar chart]
 
-![image alt]
-
-![image alt]
-
-![image alt]
-
-![image alt]
+![image alt](
 
 # Step 4: Add Filters and Slicers
 
 1️⃣ Click on “Slicer” in the Visualizations pane.
+
+![image alt](
+
 2️⃣ Drag a field (e.g., Date or Category) to filter data interactively.
+
+![image alt](
+
 3️⃣ You can also use Page-Level Filters to apply filters across all visuals.
+
+![image alt](
 
 📌 Tip: Slicers allow users to dynamically filter reports based on their needs.
 
 Example Screenshot:
 [Insert Screenshot: Power BI slicer example]
 
-![image alt]
-
-![image alt]
-
-![image alt]
-
-![image alt]
+![image alt](
 
 # Step 5: Format and Publish the Report
 
 1️⃣ Use the “Format” pane to adjust colors, fonts, and layout.
+
+![image alt](
+
 2️⃣ Click on “File” → “Save As” to save your report.
+
+![image alt](
+
 3️⃣ To share the report, click “Publish” and upload it to Power BI Service.
+
+![image alt](
 
 📌 Tip: After publishing, you can share the report with your team and schedule automatic data refreshes.
 
 Example Screenshot:
 [Insert Screenshot: Power BI Publish Option]
 
-![image alt]
-
-![image alt]
-
-![image alt]
-
-![image alt]
+![image alt](
 
 # Conclusion
 
