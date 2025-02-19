@@ -10,11 +10,7 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 
 1️⃣ Launch Power BI Desktop on your computer.
 
-
-
-
-
-
+![image alt]
 
 2️⃣ Click on “Home” → “Get Data” to import your dataset.
 
@@ -28,7 +24,7 @@ Example Screenshot:
 
 ![image alt](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/34aef982ccb9669abc7563d27072c18f2f4da4bb/IMG_1668.png)
 
-![image alt]
+
 
 ![image alt]
 
