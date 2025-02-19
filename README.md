@@ -15,7 +15,7 @@ Power BI is a powerful data visualization tool that allows you to transform raw 
 📌 Tip: If your data is in an Excel file, select “Excel Workbook” and browse for the file.
 
 Example Screenshot:
-![image alt](image_ url)Screenshot: Power BI Home Screen with “Get Data” Option
+![image alt]([image_ url](https://github.com/Pavithra8499/How-to-create-a-report-in-Power-BI-with-screenshots-/blob/09ed6edbd820fa4a4c2444dc4c1b555443a84e75/IMG_1665.png))Screenshot: Power BI Home Screen with “Get Data” Option
 
 # Step 2: Transform and Clean Data (Power Query Editor)
 
